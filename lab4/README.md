@@ -1,6 +1,7 @@
 
 # Lab 4 - Setting up App Insights (AI) in VS Code
-In this lab we will sho
+In this lab we will walk through adding an  Application Insights framework to a sample  Node.js/Express project. We will also showcase the tight AI/VS Code integration that will enable more agile development process by providing real-time AI telemetry (CodedLens) feedback in the IDE.  
+
 ## Create a sample Node.js Express project
 Initialize a node application (pick defaults)
 ``` bash
@@ -19,12 +20,15 @@ Open Visual Studio Code and install the Application Insights extension. You can 
 ```bash
 code .
 ```
-In VS Code bring up the command pallete by using the menu or command line shortcut: Ctr+Shift+P (Windows) or Command+Shift+P (Mac).
+Navigate to the Extensions tab, search and install the Azure Application Insights
 
-![Command Pallete](/images/lab4-vscode-ai.gif)
+![AI Extention](/images/lab4-ai-ext.png)
 
 ## Deploy an App Insights resource in Azure
 ## Add AI to the project and connect to Azure
+In VS Code bring up the command pallete by using the menu or command line shortcut: Ctr+Shift+P (Windows) or Command+Shift+P (Mac).
+
+![Command Pallete](/images/lab4-vscode-ai.gif)
 ## View the code telemetry using CodeLens
 ## View the code telemetry in the AI portal
 
