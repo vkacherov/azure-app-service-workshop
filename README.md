@@ -4,6 +4,15 @@ This workshop is designed to help you get familiar with some of the key features
 
 App Service is a platform-as-a-service (PaaS) offering of Microsoft Azure. It allows you to create web and mobile apps for any platform or device. Integrate your apps with SaaS solutions, connect with on-premises applications, and automate your business processes. Azure runs your apps on fully managed virtual machines (VMs), with your choice of shared VM resources or dedicated VMs.
 
+## Prerequisites
+
+In order to successfully complete this lab you will need:
+
+- An active Microsoft Azure Subscription.  If you do not have a current subscription, you can create one using the **[free trial](https://azure.microsoft.com/en-us/free/)**
+- Node.js 4.x or later.  You can install Node.js from **[nodejs.org](https://nodejs.org/en/)**
+- Visual Studio Code. Visual Studio Code is a free, open source, cross platform development environment.  You can install it from **[code.visualstudio.com](http://code.visualstudio.com)**
+- Git installed and in your system path - You can install Git from **[git-scm.com/downloads](https://git-scm.com/downloads)**
+
 ## [Lab 1 - Provisioning an Azure App Service](/lab1)
 
 * Create an App Service Environment (ASE)
