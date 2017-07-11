@@ -8,7 +8,7 @@ This workshop is designed to help you get familiar with some of the key features
 
 ## Lab 2 - Azure App Service Deployment
 * Create a staging slot
-* Deploy from a GitHub repo (continues delivery)
+* Deploy from a GitHub repo (continuous delivery)
 * Add an App Authentication/Authorization with Azure AD
 
 ## Lab 3 - Visual Studio Team Services CI/CD pipeline
