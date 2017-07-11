@@ -6,7 +6,7 @@ App Service is a platform-as-a-service (PaaS) offering of Microsoft Azure. It al
 
 ## Prerequisites
 
-In order to successfully complete this lab you will need:
+In order to successfully complete this workshop you will need:
 
 - An active Microsoft Azure Subscription.  If you do not have a current subscription, you can create one using the **[free trial](https://azure.microsoft.com/en-us/free/)**
 - Node.js 4.x or later.  You can install Node.js from **[nodejs.org](https://nodejs.org/en/)**

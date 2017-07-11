@@ -2,6 +2,14 @@
 
 In this lab we will walk through adding an  Application Insights framework to a sample  Node.js/Express project. We will showcase the AI/VS Code integration that will enable more agile development process by providing real-time AI telemetry (CodeLens) feedback in the IDE and the portal.
 
+## Prerequisites
+
+In order to successfully complete this workshop you will need:
+
+- Set up Application Insights resource in Azure. Please follow the instructions [here](https://docs.microsoft.com/en-us/azure/application-insights/app-insights-nodejs)
+- Install Express Application Generator from [http://expressjs.com](https://expressjs.com/en/starter/generator.html)
+
+
 ## Create a sample Node.js Express project
 
 Initialize a node application (pick defaults)
@@ -59,3 +67,5 @@ Once the AI SDK is installed and bootstrapped, navigate to your controller (inde
 You can also go a level deeper by viewing the AI telemetry in the Azure portal (click on the App Insights icon in the IDE).
 
 ![AI Portal](/images/lab4-ai-telemetry-portal.png)
+
+
