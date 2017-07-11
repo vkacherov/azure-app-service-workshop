@@ -28,12 +28,20 @@ Navigate to the Extensions tab, search and install the Azure Application Insight
 ## Add AI to the project and connect to Azure
 In VS Code bring up the command pallete by using the menu or command line shortcut: Ctr+Shift+P (Windows) or Command+Shift+P (Mac) and select "Application Insights: Add To Project"
 
-![Command Pallete](/images/lab4-vscode-ai.gif)
+![Command Palete](/images/lab4-vscode-ai.gif)
 
 Select "Add Account" and follow the login instructions (if not already logged in). If you are logged in, select you account from the drop down.
 
 ![AI Login](/images/lab4-ai-account.png)
 
-## View the code telemetry using CodeLens
-## View the code telemetry in the AI portal
+Once logged in VS Code will prompt you to select a subscription and a resource group. 
 
+Finally, VS Code will add the required npm package to node_modules folder, add a config file aisettings.json containing the AI key and will bootstrap the required code in the app.js.
+
+You should immediately start seeing the telemetry annotations in your code (more details below).
+
+## View the code telemetry using CodeLens
+![AI CodeLens](/images/lab4-ai-telemetry-ide.png)
+
+## View the code telemetry in the AI portal
+![AI Portal](/images/lab4-ai-telemetry-portal.png)
