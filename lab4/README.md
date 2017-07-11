@@ -4,7 +4,7 @@ In this lab we will walk through adding an  Application Insights framework to a 
 
 ## Prerequisites
 
-In order to successfully complete this workshop you will need:
+In order to successfully complete this lab you will need:
 
 - Set up Application Insights resource in Azure. Please follow the instructions [here](https://docs.microsoft.com/en-us/azure/application-insights/app-insights-nodejs)
 - Install Express Application Generator from [http://expressjs.com](https://expressjs.com/en/starter/generator.html)
@@ -68,4 +68,6 @@ You can also go a level deeper by viewing the AI telemetry in the Azure portal (
 
 ![AI Portal](/images/lab4-ai-telemetry-portal.png)
 
+## Next Steps
 
+Stay up to date with the latest App Insight features and tutorials at the [Azure Blog](https://azure.microsoft.com/en-us/blog/tag/application-insights/)
