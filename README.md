@@ -1,18 +1,17 @@
-
-## Introduction to the **Azure App Service** (PaaS) workshop
+# Introduction to the **Azure App Service** (PaaS) workshop
 
 This workshop is designed to help you get familiar with some of the key features and capabilities of the Azure App Service and supporting tooling for building, hosting and monitoring modern applications. 
 
-### Lab 1 - Provisioning an Azure App Service
+## Lab 1 - Provisioning an Azure App Service
 * Create an Application Service Environment (ASE)
 * Create an Azure Web App in the ASE
 
-### Lab 2 - Azure App Service Deployment
+## Lab 2 - Azure App Service Deployment
 * Create a staging slot
 * Deploy from a GitHub repo (continues delivery)
 * Add an App Authentication/Authorization with Azure AD
 
-### Lab 3 - Visual Studio Team Services CI/CD pipeline
+## Lab 3 - Visual Studio Team Services CI/CD pipeline
 * Create a Visual Studio Team Services project
 * Import the GitHub repository
 * Switch the local git master to VSTS
@@ -20,7 +19,7 @@ This workshop is designed to help you get familiar with some of the key features
 * Create a build plan
 * Perform a slot swap
 
-### Lab 4 - Setting up App Insights (AI) in VS Code
+## [Lab 4 - Setting up App Insights (AI) in VS Code](/lab4)
 * Create sample project
 * Install an App Insights extension in VS Code
 * Deploy an App Insights resource in Azure
