@@ -1,6 +1,6 @@
 
 # Lab 4 - Setting up App Insights (AI) in VS Code
-In this lab we will walk through adding an  Application Insights framework to a sample  Node.js/Express project. We will also showcase the tight AI/VS Code integration that will enable more agile development process by providing real-time AI telemetry (CodeLens) feedback in the IDE.  
+In this lab we will walk through adding an  Application Insights framework to a sample  Node.js/Express project. We will also showcase the AI/VS Code integration that will enable more agile development process by providing real-time AI telemetry (CodeLens) feedback in the IDE.  
 
 ## Create a sample Node.js Express project
 Initialize a node application (pick defaults)
