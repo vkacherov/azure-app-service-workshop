@@ -1,3 +1,6 @@
+
+![Azure App Service](images/aas-logo.png)
+
 ## Introduction to the **Azure App Service** (PaaS) workshop
 
 This workshop is designed to help you get familiar with some of the key features and capabilities of the Azure App Service and supporting tooling for building, hosting and monitoring modern applications. 
