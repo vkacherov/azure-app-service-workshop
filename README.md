@@ -1,4 +1,6 @@
-## Introduction to Azure App Service (PaaS) Workshop
+## Introduction to the **Azure App Service** (PaaS) workshop
+
+This workshop is designed to help you get familiar with some of the key features and capabilities of the Azure App Service and supporting tooling for building, hosting and monitoring modern applications. 
 
 ### Lab 1 - Provisioning an Azure App Service
 * Create an Application Service Environment (ASE)
