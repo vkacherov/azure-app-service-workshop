@@ -1,6 +1,8 @@
-# Introduction to the **Azure App Service** (PaaS) workshop
+# Introduction to the **Azure App Service** (PaaS)
 
-This workshop is designed to help you get familiar with some of the key features and capabilities of the Azure App Service and supporting tooling for building, hosting and monitoring modern applications. 
+This workshop is designed to help you get familiar with some of the key features and capabilities of the Azure App Service, support tooling for building, hosting and monitoring modern applications.
+
+App Service is a platform-as-a-service (PaaS) offering of Microsoft Azure. It allows you to create web and mobile apps for any platform or device. Integrate your apps with SaaS solutions, connect with on-premises applications, and automate your business processes. Azure runs your apps on fully managed virtual machines (VMs), with your choice of shared VM resources or dedicated VMs.
 
 ## Lab 1 - Provisioning an Azure App Service
 * Create an Application Service Environment (ASE)
