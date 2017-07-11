@@ -1,7 +1,6 @@
-
 # Lab 4 - Setting up App Insights (AI) in VS Code
 
-In this lab we will walk through adding an  Application Insights framework to a sample  Node.js/Express project. We will showcase the AI/VS Code integration that will enable more agile development process by providing real-time AI telemetry (CodeLens) feedback in the IDE and the portal.  
+In this lab we will walk through adding an  Application Insights framework to a sample  Node.js/Express project. We will showcase the AI/VS Code integration that will enable more agile development process by providing real-time AI telemetry (CodeLens) feedback in the IDE and the portal.
 
 ## Create a sample Node.js Express project
 
@@ -11,7 +10,7 @@ Initialize a node application (pick defaults)
 npm init
 ```
 
-Boostrap the Express framework (pick defaults and agree to overwrite the destination by typing 'y')
+Bootstrap the Express framework (pick defaults and agree to overwrite the destination by typing 'y')
 
 ``` bash
 express
@@ -31,11 +30,11 @@ code .
 
 Navigate to the Extensions tab, search and install the Azure Application Insights
 
-![AI Extention](/images/lab4-ai-ext.png)
+![AI Extension](/images/lab4-ai-ext.png)
 
-## Deploy an App Insights resource in Azure
 ## Add AI to the project and connect to Azure
-In VS Code bring up the command pallete by using the menu or command line shortcut: Ctr+Shift+P (Windows) or Command+Shift+P (Mac) and select "Application Insights: Add To Project"
+
+In VS Code bring up the command palette by using the menu or command line shortcut: Ctr+Shift+P (Windows) or Command+Shift+P (Mac) and select "Application Insights: Add To Project"
 
 ![Command Palette](/images/lab4-vscode-ai.gif)
 
@@ -43,7 +42,7 @@ Select "Add Account" and follow the login instructions (if not already logged in
 
 ![AI Login](/images/lab4-ai-account.png)
 
-Once logged in VS Code will prompt you to select a subscription and a resource group. 
+Once logged in VS Code will prompt you to select a subscription and a resource group.
 
 Finally, VS Code will add the required npm package to node_modules folder, add a config file **aisettings.json** containing the AI key and will bootstrap the required code in the app.js.
 
