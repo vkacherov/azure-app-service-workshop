@@ -41,7 +41,10 @@ Finally, VS Code will add the required npm package to node_modules folder, add a
 You should immediately start seeing the telemetry annotations in your code (more details below).
 
 ## View the code telemetry using CodeLens
+Once the AI SDK is installed and bootstrapped navigate to your controller (index.js in our case) and notice the AI CodeLens annotations above each route. The telemetry will show some quick statistics about the number of requests, failures and response time. Click on the annotation to get additional details.
 ![AI CodeLens](/images/lab4-ai-telemetry-ide.png)
 
 ## View the code telemetry in the AI portal
+You can also go a level deeper by viewing the AI telemety in the Azure portal (click on the App Insights icon in the IDE).
+
 ![AI Portal](/images/lab4-ai-telemetry-portal.png)
