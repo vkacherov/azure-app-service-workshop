@@ -27,3 +27,5 @@ App Service is a platform-as-a-service (PaaS) offering of Microsoft Azure. It al
 ## [Lab 4 - Setting up App Insights (AI) in VS Code](/lab4)
 
 In this lab we will walk through adding an  Application Insights framework to a sample  Node.js/Express project. We will showcase the AI/VS Code integration that will enable more agile development process by providing real-time AI telemetry (CodeLens) feedback in the IDE and the portal.
+
+![Proceed to lab4](/images/button_proceed-to-lab.png)
