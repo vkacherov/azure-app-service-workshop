@@ -12,10 +12,10 @@ In order to successfully complete this lab you will need:
 
 ## Create a sample Node.js Express project
 
-Initialize a node application (pick defaults)
+Initialize a node application
 
 ``` bash
-npm init
+npm init -y
 ```
 
 Bootstrap the Express framework (pick defaults and agree to overwrite the destination by typing 'y')
